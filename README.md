@@ -1,5 +1,5 @@
 # code4100days
-Inspired by the #100DaysOfCode. Simplified version.
+Inspired by the #100DaysOfCode. **Simplified version.**
 
 # I've joined the #100DaysOfCode Challenge
 
